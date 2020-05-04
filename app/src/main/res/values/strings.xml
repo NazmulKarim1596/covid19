@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">C-19</string>
+    <string name="name">Name</string>
+    <string name="unit">Unit</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+
+    <string name="add">ADD</string>
+    <string name="add1">Add</string>
+    <string name="add2">ADD</string>
+    <string name="patient_entry">Patient Entry</string>
+
+    <string name="unit_entry">Enter your unit here</string>
+    <string name="name_entry">Enter your name here</string>
+
+
+    <string name="save">SAVE</string>
+    <string name="mm_dd_yyyy">mm/dd/yyyy</string>
+    <string name="nazmul">BA-10091 Lt Nazmul Karim,Sigs</string>
+    <string name="rank_entry">Enter Rank Here</string>
+    <string name="search_here">Search Here...</string>
+
+</resources>
